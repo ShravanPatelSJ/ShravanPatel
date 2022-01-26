@@ -26,7 +26,7 @@
      <li>To start a YouTube Channel</br></li>
  </ol>
  
- -Wanna know more about me -[\[MY PORTFOLIO\]](https:/shravanjakkula.com)
+ -Wanna know more about me -[MY PORTFOLIO](https://shravanjakkula.com)
 
 
 <h3 align="left">Connect with me:</h3>
