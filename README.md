@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on Flutter based projects
 
-- 🥅 2021 Goals:
+- 🥅 2024 Goals:
 <ol>
      <li>To get an Internship</br></li>
      <li>Start Freelancing</br></li>
