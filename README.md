@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently pursuing my **4th year Bachelor's Electrical, Electronics & Computer Science degree** in Mahatma Gandhi Institute of Technology, Hyderabad, India
+- 🔭 I’m currently pursuing my **Bachelor's Electrical, Electronics & Computer Science degree** in Mahatma Gandhi Institute of Technology, Hyderabad, India
 
 - 🌱 I’m currently learning **Android Development with Kotlin** and **Web Development with Python-Django**
 
